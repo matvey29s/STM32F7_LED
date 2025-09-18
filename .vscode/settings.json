@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "stm32f7xx_ll_pwr.h": "c",
+        "stm32_assert.h": "c"
+    }
+}

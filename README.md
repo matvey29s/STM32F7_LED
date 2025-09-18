@@ -4,7 +4,8 @@
 ### OC Ubuntu
 ### 1) sudo apt install openocd
 
-### 2) sudo apt install -y gcc-arm-none-eabi or follow the link below and download
-###    https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain/gnu-rm/downloads
+### 2) sudo apt install -y gcc-arm-none-eabi 
+## or follow the link below and download
+##    https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain/gnu-rm/downloads
 
 
